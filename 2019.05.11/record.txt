@@ -1,0 +1,4 @@
+pred_multiscale_1_best.h5
+
+     &Head & Shoulder & Elbow & Wrist & Hip & Knee  & Ankle & Total \\
+LSP& 98.3  & 95.1  & 92.6  & 89.8  & 94.6  & 95.0 & 94.5 & 94.3 \\
